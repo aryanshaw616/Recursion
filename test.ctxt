@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=num\ x\ y
+comment0.target=int\ mystery(int,\ int,\ int)
+numComments=1
