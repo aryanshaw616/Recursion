@@ -5,7 +5,7 @@ public class subsequence {
         System.out.println("Enter your String");
         String st=in.next();
         ArrayList<String>res = seq(st);
-        System.out.println(res);
+        System.out.println(seq(st));
     }
     public static ArrayList<String> seq(String st)
     {
