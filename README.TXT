@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-This repository is made for my ease when i started learning rcursion
+This repository is made for my ease when i started learning recursion using Java
 ------------------------------------------------------------------------
 
 PROJECT TITLE:
